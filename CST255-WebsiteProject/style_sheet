@@ -1,0 +1,13 @@
+body{
+background-color: #CCCCFF;
+}
+
+    .center_image {
+        display: block;
+        margin: 0 auto;
+        text-align: center;
+    }
+    
+    h1 {
+        text-align: center;
+    }
